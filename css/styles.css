@@ -1,0 +1,36 @@
+.sidebar {
+  float: left;
+  width: 40%;
+  background-color: #e5cf3d;
+  color: #f24421;
+  margin: 0;
+  height: 301.2px;
+}
+
+.content {
+  float: right;
+  width: 60%;
+  color: #e5cf3d;
+  background-color: #f24421;
+  margin: 0;
+  text-align: center;
+}
+
+.location {
+  margin: 0 10px;
+}
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+.right {
+  width: 50%;
+  float: right;
+  text-align: left;
+}
+
+img {
+  width: 80%;
+}
